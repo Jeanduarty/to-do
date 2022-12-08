@@ -6,15 +6,15 @@ O projeto se trata de uma aplicação web aonde é possível criar tarefas para 
 
 - Tela inicial
 
-<img align="center" src="https://github.com/Jeanduarty/dtmoney/blob/main/public/home.png">
+<img align="center" src="https://github.com/Jeanduarty/to-do/blob/main/public/home.png">
 
 - Tela com algumas tarefas listadas
 
-<img align="center" src="https://github.com/Jeanduarty/dtmoney/blob/main/public/tasksListed.png">
+<img align="center" src="https://github.com/Jeanduarty/to-do/blob/main/public/tasksListed.png">
 
 - Tela com algumas tarefas ralizadas
 
-<img align="center" src="https://github.com/Jeanduarty/dtmoney/blob/main/public/tasksDone.png">
+<img align="center" src="https://github.com/Jeanduarty/to-do/blob/main/public/tasksDone.png">
 
 
 ## Tecnologias utilizadas 💻
